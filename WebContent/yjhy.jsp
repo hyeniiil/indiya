@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>혜윤이의 깃공부</h1>
+<h1>혜윤이의 깃공부안녕</h1>
 </body>
 </html>
